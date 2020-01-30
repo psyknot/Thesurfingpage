@@ -1,0 +1,87 @@
+body {
+    font-family: 'Roboto',
+    sans-serif;
+    margin: 0;
+    padding: 0;
+    word-wrap: break-word;
+    background-color: rgb(51, 51, 51);
+}
+
+h1 {
+   text-shadow: black;
+   color: royalblue;
+
+    
+}
+
+h2 {
+   font-size: 150%;
+   font-weight: bolder;
+}
+
+.myheader
+{
+    background-color: whitesmoke;
+    height: 100px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    flex-wrap: wrap;
+    border: slategray solid 2px;
+    border-bottom: none;
+    border-top: none;
+    margin-top: 10px;
+  
+
+}
+
+.jumbotron {
+    background-color: whitesmoke;
+    border: slategray solid 2px;
+    border-bottom: none;
+    border-top: none;
+    margin-top: 10px;
+}
+
+.banner
+{
+    
+    background-image: url(img/ocean-view.jpg);
+    height: 450px;
+    font-size: x-large;
+    color: floralwhite;
+    text-align: center;
+    
+    
+}
+
+a, a:hover {
+        text-decoration: none;
+}
+
+.presentation
+{
+    background-color: whitesmoke;
+    text-align: center;
+    border: slategray solid 2px;
+    border-bottom: none;
+    border-top: none;
+}
+
+.temoignages
+{
+    background-color: whitesmoke;
+    text-align: center;
+    border: slategray solid 2px;
+    border-bottom: none;
+    border-top: none;
+}
+
+.prix
+{
+background-color: whitesmoke;
+text-align: center;
+border: slategray solid 2px;
+border-bottom: none;
+border-top: none;
+}
